@@ -6,8 +6,7 @@
         👋 Hi there! I'm Devana, an MCA student with a passion for coding
         and technology.<br />
         <br />
-        <br />
-        <br />
+    
 ** I am a strong proponent of lifelong learning and development. I enjoy the challenge of learning new things and using them, whether it's delving into the nuances of a new programming language or becoming proficient with the newest frameworks.
     </p>
     <h2>Languages and tools</h2>
