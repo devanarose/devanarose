@@ -36,13 +36,15 @@
     </div>
 </div>
 
-###
-
-## 
-
-###
 
 <h3 align="left">🔥My Stats</h3>
 
+###
+<div align="center">
+    
+![](https://github-readme-stats.vercel.app/api?username=devanarose&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devanarose&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=p-v-anjali&theme=radical&hide_border=false)
+</div>
 
 
