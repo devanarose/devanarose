@@ -47,7 +47,6 @@
 <div align="center">
     
 ![](https://github-readme-stats.vercel.app/api?username=devanarose&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devanarose&theme=radical&hide_border=false)
 </div>
 
