@@ -6,12 +6,6 @@
 
 # Hi, I'm Devana 👋
 
-### 🧝 About Me  
-- **Role**: Junior Android Developer  
-- **Interests**: Mobile app development
-
----
-
 ### 🛠️ Tech Stack & Tools  
 
 | Area | Technologies / Tools |
@@ -20,4 +14,3 @@
 | Backend / APIs | REST, JSON |
 | Tools | Android Studio, Postman|
 
-Thanks for visiting my profile — feel free to explore my repos, drop me a message, or open an issue / PR. 😊  
