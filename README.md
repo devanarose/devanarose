@@ -10,7 +10,7 @@
 
 | Area | Technologies / Tools |
 |------|-----------------------|
-| Mobile | Kotlin, Java, Android SDK, Jetpack Compose |
+| Mobile | Kotlin, Flutter, Java, Android SDK, Jetpack Compose |
 | Backend / APIs | REST, JSON |
 | Tools | Android Studio, Postman|
 
